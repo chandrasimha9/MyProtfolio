@@ -1,0 +1,212 @@
+export const personalData = {
+  fullName: "G Raja Chandra Simha Yadav",
+  displayName: "CHANDRA SIMHA",
+  title: "FULL-STACK WEB DEVELOPER & AI DEVELOPER",
+  titleShort: "Full-Stack & AI Developer",
+  location: "Andhra Pradesh, India",
+  email: "chandrasimha66018@gmail.com",
+  phone: "+91 6301081817",
+  phoneFormatted: "+91 63010 81817",
+  resumePath: "/resume/Resume.pdf",
+  heroVideo: "/videos/chandra-hero.mp4",
+  heroPoster: "/images/chandra-hero-poster.jpeg",
+  eyebrow: "HELLO, I'M CHANDRA SIMHA.",
+  heroHeading: ["BUILDING", "DIGITAL", "EXPERIENCES."],
+  heroDescription:
+    "I build modern web applications and intelligent digital experiences using software engineering, automation and AI technologies.",
+  heroBadge: "TURNING IDEAS INTO REALITY.",
+  about: {
+    label: "ABOUT ME",
+    heading: "BEHIND THE CODE.",
+    supportingHeading: "I'M CHANDRA SIMHA.",
+    professionalTitle: "FULL-STACK WEB DEVELOPER & AI DEVELOPER",
+    paragraphs: [
+      "Hello, I'm Chandra Simha, a Full-Stack Web Developer and AI Developer passionate about building meaningful digital experiences.",
+      "I enjoy developing modern web applications, working with Python and backend technologies, managing databases, and exploring artificial intelligence and machine learning.",
+      "I believe great technology is not just about writing code — it's about solving real problems, creating useful experiences, and continuously learning.",
+    ],
+    metrics: [
+      { value: "100+", label: "LeetCode Problems Solved", sublabel: "Algorithmic Problem Solving" },
+      { value: "FULL STACK", label: "Web Development", sublabel: "React • FastAPI • MySQL" },
+      { value: "AI & ML", label: "Exploring Intelligent Applications", sublabel: "RAG • Scikit-Learn • NLP" },
+    ],
+    stats: [
+      { label: "ACADEMIC CGPA", value: "9.0", suffix: "", detail: "B.Tech Computer Science & Engineering" },
+      { label: "LEETCODE SOLVED", value: "100", suffix: "+", detail: "Data Structures & Algorithmic Problem Solving" },
+      { label: "FEATURED PROJECTS", value: "3", suffix: "", detail: "Full-Stack, RAG & Machine Learning" },
+      { label: "INTERNSHIP EXPERIENCES", value: "2", suffix: "", detail: "Web Automation, Python & Data Science" },
+    ],
+  },
+  skills: {
+    heading: "MY TECHNICAL TOOLKIT.",
+    subheading: "Categorized competencies across software engineering, artificial intelligence, and core computer science fundamentals.",
+    categories: [
+      {
+        name: "Programming",
+        icon: "Terminal",
+        color: "from-white/15 to-zinc-800/10",
+        border: "border-white/20",
+        skills: [
+          { name: "Python", level: "Core Language", tag: "Primary" },
+        ],
+      },
+      {
+        name: "Frontend Development",
+        icon: "Layout",
+        color: "from-white/15 to-zinc-800/10",
+        border: "border-white/20",
+        skills: [
+          { name: "React", level: "Component Architecture", tag: "Framework" },
+          { name: "HTML5", level: "Semantic Markup", tag: "Standard" },
+          { name: "CSS3", level: "Responsive Styling", tag: "Design" },
+          { name: "Bootstrap", level: "UI Framework", tag: "Utility" },
+        ],
+      },
+      {
+        name: "Backend Development",
+        icon: "Server",
+        color: "from-white/15 to-zinc-800/10",
+        border: "border-white/20",
+        skills: [
+          { name: "FastAPI", level: "Modern Async REST APIs", tag: "Backend" },
+        ],
+      },
+      {
+        name: "Database Systems",
+        icon: "Database",
+        color: "from-white/15 to-zinc-800/10",
+        border: "border-white/20",
+        skills: [
+          { name: "MySQL", level: "Relational Modeling & CRUD", tag: "RDBMS" },
+        ],
+      },
+      {
+        name: "AI & Machine Learning",
+        icon: "Cpu",
+        color: "from-white/15 to-zinc-800/10",
+        border: "border-white/20",
+        skills: [
+          { name: "Scikit-learn", level: "Model Training & Evaluation", tag: "ML" },
+          { name: "Pandas", level: "Data Wrangling & Analysis", tag: "Data" },
+          { name: "Random Forest", level: "Classification Algorithms", tag: "Model" },
+          { name: "Machine Learning Fundamentals", level: "Theory & Principles", tag: "Core AI" },
+          { name: "RAG Fundamentals", level: "Vector Search & Retrieval", tag: "GenAI" },
+        ],
+      },
+      {
+        name: "Computer Science Foundations",
+        icon: "Binary",
+        color: "from-white/15 to-zinc-800/10",
+        border: "border-white/20",
+        skills: [
+          { name: "OOP", level: "Object-Oriented Design", tag: "Architecture" },
+          { name: "DBMS", level: "Database Management Systems", tag: "Systems" },
+          { name: "Computer Networks", level: "Protocols & Web Architecture", tag: "Infra" },
+          { name: "Data Structures and Algorithms", level: "Problem Solving & Analysis", tag: "DSA" },
+        ],
+      },
+    ],
+  },
+  experience: {
+    heading: "MY PROFESSIONAL JOURNEY.",
+    subheading: "Practical industry internships bridging automation engineering and foundational artificial intelligence.",
+    items: [
+      {
+        role: "Full-Stack Developer Intern",
+        company: "Infosys Springboard Tech",
+        period: "October 2024 – December 2024",
+        status: "Completed",
+        technologies: ["Python", "Selenium", "Web Scraping Automation"],
+        description: [
+          "Worked on Python-based web scraping automation using Selenium to automate browser interactions and collect information from web pages.",
+          "Developed automation scripts to reduce repetitive manual browsing and streamline data collection tasks.",
+          "Built reliable error-handling and automated browser flows to ensure clean data acquisition.",
+        ],
+      },
+      {
+        role: "Python and Data Science Intern",
+        company: "EchoBrains",
+        period: "January 2026 – May 2026",
+        status: "Internship",
+        technologies: ["Python", "Data Science", "AI/ML Fundamentals"],
+        description: [
+          "Learned foundational AI concepts, machine-learning approaches and the working principles of ML models.",
+          "Explored Python-based data handling and preparation concepts for predictive modeling pipelines.",
+          "Studied dataset preprocessing, exploratory analysis, and performance metrics across machine learning models.",
+        ],
+      },
+    ],
+  },
+  education: {
+    heading: "MY EDUCATION.",
+    subheading: "Consistent academic performance with high honors across engineering and fundamental sciences.",
+    items: [
+      {
+        degree: "B.TECH",
+        field: "Computer Science and Engineering",
+        institution: "Chadalawada Ramanamma Engineering College",
+        period: "2022 – 2026",
+        score: "9.0 CGPA",
+        highlight: "Graduating Class of 2026 • Top Academic Standing",
+        courses: "Data Structures & Algorithms, Object Oriented Programming, DBMS, Operating Systems, Computer Networks, Artificial Intelligence.",
+      },
+      {
+        degree: "INTERMEDIATE",
+        field: "MPC (Mathematics, Physics, Chemistry)",
+        institution: "Narayana Junior College",
+        period: "2020 – 2022",
+        score: "8.8 CGPA",
+        highlight: "Advanced Mathematics & Physical Sciences Foundation",
+        courses: "Higher Mathematics, Physical Sciences, Organic & Inorganic Chemistry, Analytical Reasoning.",
+      },
+      {
+        degree: "SSC",
+        field: "Secondary School Certificate",
+        institution: "Yashoda Garden School",
+        period: "2019 – 2020",
+        score: "9.2 CGPA",
+        highlight: "Distinction Honors • Scholastic Excellence",
+        courses: "General Sciences, Mathematics, Social Studies, English.",
+      },
+    ],
+  },
+  achievements: {
+    heading: "CONSISTENCY BUILDS EXCELLENCE.",
+    subheading: "Daily dedication to algorithms, rigorous problem solving, and analytical thinking.",
+    main: {
+      title: "100+ LEETCODE PROBLEMS SOLVED",
+      badge: "ALGORITHMIC PROBLEM SOLVER",
+      description:
+        "Strengthened data structures, algorithms and problem-solving skills through consistent coding practice. Focused on arrays, strings, hash maps, two pointers, searching, sorting, and linked list traversal patterns.",
+      metrics: [
+        { label: "Problems Solved", value: "100+" },
+        { label: "Primary Language", value: "Python" },
+        { label: "Core Topics", value: "DSA & Problem Solving" },
+        { label: "Consistency", value: "Continuous Growth" },
+      ],
+    },
+  },
+  horizontalStatement: {
+    eyebrow: "CINEMATIC VISION",
+    lines: [
+      "FROM IDEAS",
+      "TO INTELLIGENT",
+      "DIGITAL SOLUTIONS.",
+    ],
+    tagline: "Bridging the gap between software engineering, practical machine learning, and clean user experience.",
+  },
+  contact: {
+    heading: "HAVE AN IDEA? LET'S BUILD IT.",
+    subheading:
+      "Let's connect and explore how technology can turn your ideas into meaningful digital experiences.",
+    email: "chandrasimha66018@gmail.com",
+    phone: "+91 6301081817",
+    location: "Andhra Pradesh, India",
+    availability: "Available for Full-time Roles & High-impact Opportunities",
+  },
+  footer: {
+    brand: "CHANDRA SIMHA.",
+    role: "FULL-STACK DEVELOPER | AI DEVELOPER",
+    tagline: "DESIGNED WITH CURIOSITY. BUILT WITH CODE.",
+  },
+};

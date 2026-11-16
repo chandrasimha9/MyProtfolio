@@ -1,0 +1,203 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3963 >>
+stream
+BT
+/F2 20 Tf
+40 800 Td
+(G RAJA CHANDRA SIMHA YADAV) Tj
+/F1 11 Tf
+0 -18 Td
+(Full-Stack Web Developer & AI Developer | Andhra Pradesh, India) Tj
+0 -14 Td
+(Email: chandrasimha66018@gmail.com | Phone: +91 6301081817) Tj
+
+0 -25 Td
+/F2 13 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -4 Td
+0.7 0.7 0.7 rg
+0 0 515 0.5 re f
+0 0 0 rg
+0 -14 Td
+/F1 9.5 Tf
+(Computer Science and Engineering graduate passionate about full-stack development, artificial) Tj
+0 -12 Td
+(intelligence, and building practical software applications. Experienced in Python, FastAPI, React, MySQL,) Tj
+0 -12 Td
+(web automation, and Retrieval-Augmented Generation (RAG) fundamentals. 100+ LeetCode problems solved.) Tj
+
+0 -22 Td
+/F2 13 Tf
+(TECHNICAL SKILLS) Tj
+0 -4 Td
+0.7 0.7 0.7 rg
+0 0 515 0.5 re f
+0 0 0 rg
+0 -14 Td
+/F2 9.5 Tf
+(Programming: ) Tj
+/F1 9.5 Tf
+(Python) Tj
+0 -13 Td
+/F2 9.5 Tf
+(Frontend: ) Tj
+/F1 9.5 Tf
+(React, HTML5, CSS3, Bootstrap) Tj
+0 -13 Td
+/F2 9.5 Tf
+(Backend & Database: ) Tj
+/F1 9.5 Tf
+(FastAPI, MySQL) Tj
+0 -13 Td
+/F2 9.5 Tf
+(AI / ML: ) Tj
+/F1 9.5 Tf
+(Scikit-learn, Pandas, Random Forest, Machine Learning Fundamentals, RAG Fundamentals) Tj
+0 -13 Td
+/F2 9.5 Tf
+(Core CS: ) Tj
+/F1 9.5 Tf
+(Data Structures & Algorithms, OOP, DBMS, Computer Networks) Tj
+
+0 -22 Td
+/F2 13 Tf
+(EXPERIENCE) Tj
+0 -4 Td
+0.7 0.7 0.7 rg
+0 0 515 0.5 re f
+0 0 0 rg
+0 -14 Td
+/F2 10 Tf
+(Full-Stack Developer Intern | Infosys Springboard Tech) Tj
+/F1 9.5 Tf
+300 0 Td
+(Oct 2024 - Dec 2024) Tj
+-300 -12 Td
+(Technologies: Python, Selenium, Web Scraping Automation) Tj
+0 -12 Td
+(- Developed web scraping automation scripts using Selenium to extract web data efficiently.) Tj
+0 -12 Td
+(- Streamlined data collection workflows and eliminated repetitive manual browsing tasks.) Tj
+
+0 -16 Td
+/F2 10 Tf
+(Python and Data Science Intern | EchoBrains) Tj
+/F1 9.5 Tf
+300 0 Td
+(Jan 2026 - May 2026) Tj
+-300 -12 Td
+(Technologies: Python, Data Science, AI/ML Fundamentals) Tj
+0 -12 Td
+(- Learned foundational AI concepts, machine learning principles, and model evaluation metrics.) Tj
+0 -12 Td
+(- Explored Python-based data cleaning, preprocessing, and exploratory data analysis.) Tj
+
+0 -22 Td
+/F2 13 Tf
+(FEATURED PROJECTS) Tj
+0 -4 Td
+0.7 0.7 0.7 rg
+0 0 515 0.5 re f
+0 0 0 rg
+0 -14 Td
+/F2 10 Tf
+(CampusGPT - College Knowledge Assistant) Tj
+0 -12 Td
+/F1 9 Tf
+(Tech: Python, Embeddings, Vector Search, RAG, LLM API) Tj
+0 -12 Td
+(- Academic assistant concept for retrieving information from college policies, notices, and FAQs.) Tj
+0 -12 Td
+(- Designed chunking, vector embedding search, and similarity-based source-grounded response flow.) Tj
+
+0 -15 Td
+/F2 10 Tf
+(FraudShield AI - Online Payment Fraud Detection) Tj
+0 -12 Td
+/F1 9 Tf
+(Tech: Python, Scikit-learn, Pandas, Random Forest) Tj
+0 -12 Td
+(- Machine learning classification pipeline to detect suspicious online payment transactions.) Tj
+0 -12 Td
+(- Implemented feature engineering, model training, and evaluation techniques using Random Forest.) Tj
+
+0 -15 Td
+/F2 10 Tf
+(Hospital Management System) Tj
+0 -12 Td
+/F1 9 Tf
+(Tech: Python, FastAPI, MySQL) Tj
+0 -12 Td
+(- Comprehensive patient registration, doctor management, and appointment scheduling backend.) Tj
+0 -12 Td
+(- Built modular RESTful endpoints with FastAPI and structured relational MySQL database schemas.) Tj
+
+0 -22 Td
+/F2 13 Tf
+(EDUCATION) Tj
+0 -4 Td
+0.7 0.7 0.7 rg
+0 0 515 0.5 re f
+0 0 0 rg
+0 -14 Td
+/F2 9.5 Tf
+(B.Tech in Computer Science and Engineering | Chadalawada Ramanamma Eng. College) Tj
+/F1 9.5 Tf
+0 -12 Td
+(2022 - 2026 | CGPA: 9.0) Tj
+0 -13 Td
+/F2 9.5 Tf
+(Intermediate (MPC) | Narayana Junior College) Tj
+/F1 9.5 Tf
+0 -12 Td
+(2020 - 2022 | CGPA: 8.8) Tj
+0 -13 Td
+/F2 9.5 Tf
+(Secondary School Certificate (SSC) | Yashoda Garden School) Tj
+/F1 9.5 Tf
+0 -12 Td
+(2019 - 2020 | CGPA: 9.2) Tj
+
+0 -20 Td
+/F2 13 Tf
+(KEY ACHIEVEMENTS) Tj
+0 -4 Td
+0.7 0.7 0.7 rg
+0 0 515 0.5 re f
+0 0 0 rg
+0 -14 Td
+/F1 9.5 Tf
+(- Solved 100+ Data Structures & Algorithms problems on LeetCode with strong focus on problem solving.) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4417
+%%EOF
